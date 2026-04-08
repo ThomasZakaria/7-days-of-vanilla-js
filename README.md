@@ -18,8 +18,8 @@ This repository is a 7-day technical sprint designed to solidify my understandin
 - [x] **Day 1: Data Quota Calculator** - _Core Concepts:_ DOM Selection, Event Listeners, Input Extraction, Conditional Styling.
 - [x] **Day 2: New Year's Eve Countdown**
   - _Core Concepts:_ The `Date` Object, Time Math, Interval Execution (`setInterval`), `Math.floor`.
-- [ ] **Day 3: E-Commerce Product Filter**
-  - _Core Concepts:_ Arrays of Objects, `Array.filter()`, `Array.map()`, Object Destructuring, Template Literals, DOM Injection.
+- [x] **Day 3: E-Commerce Product Filter**
+  - _Core Concepts:_ Arrays of Objects, `Array.filter()`,`Array.reduce()`, `Array.map()`, Object Destructuring, Template Literals, DOM Injection.
 - [ ] **Day 4: Lunch Choice Poll**
   - _Core Concepts:_ Form Event Prevention, Web Storage API (`localStorage`), Persistent State, The Spread Operator (`...`).
 - [ ] **Day 5: Weather Dashboard**
